@@ -1,0 +1,2 @@
+Remontée de la 5e place en 2021, reflétant la dépendance accrue du comportement applicatif moderne à la configuration plutôt qu’au code. Cette catégorie couvre les identifiants par défaut non modifiés, les services inutiles exposés, les messages d’erreur trop détaillés divulguant des traces de pile, et l’absence d’en-têtes de sécurité. Les environnements cloud et les déploiements conteneurisés amplifient le risque, chaque nouveau service, passerelle API ou cluster Kubernetes introduisant sa propre surface de configuration.
+
